@@ -1,0 +1,30 @@
+header{ 
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    background-color: black !important;
+    line-height: 60px;
+}
+header>img{
+    height: 60px;
+}
+nav{
+    line-height: 60px;
+    
+   
+ 
+}
+nav>li{
+    display: inline-block;
+    margin-left: 14px;
+}
+nav>li>a{
+    color: white !important;
+    text-decoration: none !important;
+    padding: 8px !important;
+    cursor: pointer;
+}
+nav>li>a:hover,.active{
+    background-color:rgb(64, 83, 64) !important;
+    
+}
