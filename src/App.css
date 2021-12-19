@@ -1,5 +1,9 @@
+/* google-font*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 .App {
   text-align: center;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
 }
 
 .App-logo {

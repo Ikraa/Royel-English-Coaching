@@ -1,0 +1,34 @@
+/* =========================================
+                  Footer Style
+============================================= */
+.footer
+{
+    text-align: center;
+    padding-bottom: 3px;
+    background-color: black;
+    padding-top: 3%;
+}
+/* ---------------Footer Heading and Paragrapg Color Style-----------------*/
+.ftr-olive
+{   color:darkolivegreen;
+    
+}
+.footer p{
+    color: white;
+}
+.light-orange {
+     color: orange;
+}
+/* ------------------Footer Icon Color Style------------*/
+.icon-InstagramColor
+{
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); 
+   margin-top: 2px;
+  
+}
+/* -------------------Footer logo Style-----------------*/
+.img-logo{
+   height: 150px;
+}
+
+/* ================End Style============== */

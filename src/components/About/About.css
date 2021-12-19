@@ -1,0 +1,32 @@
+/*====================================
+             Base Style
+ ==================================== */
+
+ body{
+    height: 100%;
+}
+/* --------------Image div Style------------------ */
+.coverPic{
+      
+background-image: url("../../image/aboutBenner/banner1.jpg");
+height: 50%;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+
+/* -------------------Paragraph Style---------------------- */
+
+p{
+    font-size: 17px;
+}
+.aboutUs{
+text-align: start;
+}
+/* ---------------------Box/Card Style---------------------- */
+.boxRound{
+    border-radius: 5%;
+}
+
+/* ==========================End Style========================== */

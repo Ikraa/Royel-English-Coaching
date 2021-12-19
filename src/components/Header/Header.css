@@ -1,18 +1,19 @@
+/*====================================
+Base style Of Header Section 
+=====================================*/
 header{ 
     display: flex;
     justify-content: space-around;
-    margin-top: 30px;
     background-color: black !important;
     line-height: 60px;
 }
+/*-----------------------Logo/img style-------------------*/
 header>img{
     height: 60px;
 }
+/*-----------------------Navigation style-----------------*/
 nav{
     line-height: 60px;
-    
-   
- 
 }
 nav>li{
     display: inline-block;
@@ -23,8 +24,12 @@ nav>li>a{
     text-decoration: none !important;
     padding: 8px !important;
     cursor: pointer;
+    border-radius: 5px;
 }
 nav>li>a:hover,.active{
     background-color:rgb(64, 83, 64) !important;
     
 }
+/*======================================================
+             End Style of Header Section/Part
+ ========================================================*/
