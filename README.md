@@ -1,5 +1,5 @@
 # Royel English Academy
-It is a single page application made with ReactJS, bootstrap5 CSS etc...
+It is a multiple page application made with React,JS, bootstrap5 CSS  etc...
 
 ### Live Demo of this website :
 [Live site link](https://educational-website-royel-english-academy-ikra.netlify.app/)
